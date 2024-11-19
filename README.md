@@ -1,11 +1,3 @@
-# Web Development Final Project - *HobbyHub*
-
-Submitted by: **Amy Wong**
-
-This web app: **ReadersHub is a book forum site where everyone can talk about the books they enjoyed reading and get recommendations.**
-
-Time spent: **46** hours spent in total
-
 ## Required Features
 
 The following **required** functionality is completed:
@@ -56,7 +48,7 @@ The major challenge would be making sure that after a user created a post, it wo
 
 ## License
 
-    Copyright [2024] [Amy Wong]
+    Copyright [2024] [Tapan Shah]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
